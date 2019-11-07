@@ -1,14 +1,7 @@
-def parrot(name ="Squawk!" )
- 
-  puts "Squawk!"
-   puts parrot
- 
-end
-def parrot(name = "Pretty bird!")
-  puts name
-  puts "Pretty bird!"
+def parrot(String ="Squawk!" )
+ puts "#{String}"
+   "#{String}"
 end
 
-  
 
   
